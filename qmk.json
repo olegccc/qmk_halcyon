@@ -11,7 +11,7 @@
         ],
         [
             "splitkb/halcyon/ferris/rev1",
-            "vial_hlc",
+            "my_hlc",
             {
                 "HLC_ENCODER": "1",
                 "TARGET": "ferris_left"
